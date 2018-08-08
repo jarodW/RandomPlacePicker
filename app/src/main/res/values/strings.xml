@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Random Resturant Picker</string>
+    <string name="key">AIzaSyCLOYZXtk0p9HTIVtGGaWd9FG_MVh8mMGY</string>
+    <string name="yelp">zq1XswQjGik1ImNOakLO71xJyv9gOMeu1VnOJYQhncc5F8Yva2zH6iucMhni9Toy4dCZHEplnIqCdtRWD2EwKJHDDQQsmee42IBtxrzko76aRATg9PkrnxdViajsWXYx</string>
+
+    <!--Main Fragment Strings-->
+    <string name="distance_text">Distance</string>
+    <string name="category_label">Category</string>
+    <string name="rating_label">Min. Rating</string>
+    <string name="price_label">Price</string>
+    <string name="serach_button_text">Search</string>
+    <string-array name="distances">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+    <string name="restaurant_hints">Chinese, Italian, Thai, etc.</string>
+    <string name="bar_hints">Cocktail, Pub, Dive, etc.</string>
+    <string name="cafe_hints">Italian, French, Cuban, etc.</string>
+</resources>

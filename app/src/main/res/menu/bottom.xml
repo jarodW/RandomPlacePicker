@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_resturant"
+        android:icon="@drawable/restaurant"
+        android:title="restaurant"/>
+    <item
+        android:id="@+id/action_bars"
+        android:enabled="true"
+        android:icon="@drawable/beer"
+        android:title="Bars"/>
+    <item
+        android:id="@+id/action_cafes"
+        android:icon="@drawable/coffee_cup"
+        android:title="Cafes"/>
+    <!-- May add back in the feature
+<item
+    android:id="@+id/action_favorites"
+    android:icon="@drawable/star"
+    android:title="Favorites"/>
+    -->
+</menu>
